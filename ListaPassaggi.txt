@@ -1,0 +1,11 @@
+1) registrazione nel sito github
+2) installazione di git
+3) creazione di una cartella personale
+4) posizionamento nella cartella personale
+5) comando: git init
+6) git config --global user.name "Your name"
+7) git config --global user.email "You mail"
+8) copiare dal sito il link della repository nella clipbloard per essere fruibile successivamente
+9) git pull https://github.com/CatalanoSe/B19Liste.git
+10) con un editore scrivere un file prova.txt con all'interno qualcosa e salvare
+11) comando: git add prova.txt
